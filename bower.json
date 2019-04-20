@@ -1,0 +1,17 @@
+{
+  "name": "modernadmin-theme",
+  "version": "1.0.1",
+  "authors": [
+    "Phong <ttphong0812@gmail.com>"
+  ],
+  "description": "Theme modernadmin",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/phong0812/modernadmin-theme.git",
+  "ignore": [
+    "README.md"
+  ]
+}
